@@ -20,10 +20,10 @@ mod 'ssh',
   :ref    => 'master'
 
 mod 'profile',
-  :git    => 'https://github.com/jherbage/puppet-profile.git',
+  :git    => 'https://github.com/jherbage/puppet-sample-profile.git',
   :ref    => 'master'
 
 mod 'role',
-  :git    => 'https://github.com/jherbage/puppet-role.git',
+  :git    => 'https://github.com/jherbage/puppet-sample-role.git',
   :ref    => 'master'
 
