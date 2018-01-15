@@ -23,9 +23,9 @@ mod 'ssh',
 
 mod 'profile',
   :git    => 'https://github.com/jherbage/puppet-sample-profile.git',
-  :ref    => 'master'
+  :ref    => 'development'
 
 mod 'role',
   :git    => 'https://github.com/jherbage/puppet-sample-role.git',
-  :ref    => 'master'
+  :ref    => 'development'
 
