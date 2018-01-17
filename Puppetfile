@@ -31,3 +31,6 @@ mod 'role',
   :git    => 'https://github.com/jherbage/puppet-sample-role.git',
   :ref    => 'development'
 
+mod 'nginx',
+  :git    => 'https://github.com/jherbage/puppet-nginx.git',
+  :ref    => 'master'
