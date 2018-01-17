@@ -10,7 +10,7 @@ mod "puppetlabs/apache",      '1.11.0'
 mod "puppetlabs/java",        '1.6.0'
 mod "puppet/selinux",         '0.8.0'
 mod 'stahnma-epel', '1.3.0'
-mod 'puppetlabs-apt',         '4.4.1'
+mod 'puppetlabs-apt',         '3.0.0'
 mod "garethr/docker"
 
 # Modules from Git
