@@ -10,7 +10,7 @@ mod "puppetlabs/apache",      '1.11.0'
 mod "puppetlabs/java",        '1.6.0'
 mod "puppet/selinux",         '0.8.0'
 mod 'puppetlabs-apt',         '4.4.1'
-mod "garethr/docker",         '5.3.0'
+mod "garethr/docker"
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
