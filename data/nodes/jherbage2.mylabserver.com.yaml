@@ -1,9 +1,9 @@
 ---
 profile::nginx::vhosts:
-  - 'fdqn': 'jherbage2.mylabserver.com'
+  - 'fqdn': 'jherbage2.mylabserver.com'
     'port': 80
     'server_aliases': ''
-  - 'fdqn': 'jherbage2b.mylabserver.com'
+  - 'fqdn': 'jherbage2b.mylabserver.com'
     'port': 80
     'server_aliases': 'jherbage2b1.mylabserver.com'
 
