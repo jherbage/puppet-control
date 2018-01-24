@@ -3,3 +3,7 @@ node 'jherbage2' {
     message => "This is jherbage2 using a node def"
   }
 }
+
+node default {
+  hiera_include('classes')
+}
