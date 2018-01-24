@@ -1,9 +1,0 @@
----
-profile::nginx::vhosts:
-  - 'fqdn': 'jherbage3.mylabserver.com'
-    'port': 80
-    'server_aliases': ''
-  - 'fqdn': 'jherbage3b.mylabserver.com'
-    'port': 80
-    'server_aliases': 'jherbage3b1.mylabserver.com'
-
