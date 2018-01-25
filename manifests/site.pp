@@ -1,6 +1,6 @@
 node default {
   hiera_include('classes')
-  exec { 'touch /tmp/jason1': 
-    unless => 'ls /tmp/jason1' 
+  exec { '/usr/bin/touch /tmp/jason1': 
+    unless => '/usr/bin/ls /tmp/jason1' 
   }
 }
